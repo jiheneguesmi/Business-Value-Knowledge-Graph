@@ -1,0 +1,1 @@
+ Une société d'assurance peut utiliser l'agrégation de données pour analyser les données provenant de diverses sources telles que les demandes de règlement les antécédents médicaux et les risques afin d'identifier les tendances et les modèles de risque ce qui peut conduire à des tarifs plus précis et à une meilleure rentabilité

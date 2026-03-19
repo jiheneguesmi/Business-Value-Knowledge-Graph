@@ -1,0 +1,1 @@
+ This solution will improve the functionality of our data management system allowing us to better organize and analyze our data leading to improved business intelligence and decisionmaking

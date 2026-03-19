@@ -1,0 +1,1 @@
+ Une plateforme de réservation en ligne peut utiliser la simulation des tarifs pour optimiser sa stratégie de tarification maximisant ainsi son chiffre d'affaires tout en offrant des prix attractifs aux clients

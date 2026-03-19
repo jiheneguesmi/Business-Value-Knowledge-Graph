@@ -1,0 +1,1 @@
+ Un fabricant de pièces automobiles a mis en place une solution de suivi en temps réel de l'état de ses équipements de production ce qui lui a permis de réduire les temps d'arrêt non planifiés et d'augmenter la disponibilité de ses installations ce qui a eu un impact direct sur sa rentabilité

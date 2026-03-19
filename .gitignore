@@ -1,0 +1,26 @@
+# Virtual environment
+pfe/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environnement / variables
+.env
+
+# Jupyter / Notebooks checkpoints
+.ipynb_checkpoints
+
+# Data / modèles lourds
+data/
+models/
+*.h5
+*.pt
+*.bin
+
+# Système
+.DS_Store
+Thumbs.db

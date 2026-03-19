@@ -1,0 +1,1 @@
+ Un hôtel peut utiliser la simulation des tarifs pour ajuster ses prix en fonction de la demande maximisant ainsi ses marges tout en maintenant un taux d'occupation optimal

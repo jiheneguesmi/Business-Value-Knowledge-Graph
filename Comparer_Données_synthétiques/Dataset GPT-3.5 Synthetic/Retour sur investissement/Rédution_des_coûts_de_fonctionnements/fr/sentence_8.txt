@@ -1,0 +1,1 @@
+ Grâce à l'utilisation de technologies de virtualisation nous avons réduit nos coûts de maintenance des serveurs et de l'infrastructure informatique de 25%

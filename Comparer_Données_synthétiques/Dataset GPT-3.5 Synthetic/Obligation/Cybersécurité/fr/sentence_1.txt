@@ -1,0 +1,1 @@
+ Nous avons intégré des fonctionnalités avancées de contrôle d'accès et de gestion des identités pour répondre aux exigences de protection des données personnelles imposées par des lois telles que le RGPD Règlement Général sur la Protection des Données

@@ -1,0 +1,1 @@
+ Nos outils de gestion des identités et des accès offrent une conformité avec les normes de contrôle d'accès et d'authentification répondant ainsi aux exigences légales de protection des données et des systèmes

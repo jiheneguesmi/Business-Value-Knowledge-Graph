@@ -1,0 +1,1 @@
+ Une entreprise de fabrication peut utiliser l'agrégation de données pour rassembler les données de production de qualité et de maintenance afin d'identifier les goulots d'étranglement d'optimiser les processus et d'améliorer l'efficacité opérationnelle

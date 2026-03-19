@@ -1,0 +1,1 @@
+ Nos solutions intègrent des mécanismes de gestion des incidents de sécurité des données afin de vous aider à répondre aux exigences de notification des violations de données énoncées dans les lois sur la confidentialité

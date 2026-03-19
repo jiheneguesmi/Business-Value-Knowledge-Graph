@@ -1,0 +1,1 @@
+ Un fournisseur de services financiers peut exploiter l'agrégation de données pour regrouper les données clients provenant de différents comptes et produits financiers afin de mieux comprendre les besoins et les comportements des clients et offrir des produits et services plus adaptés ce qui peut augmenter la fidélité et les revenus des clients

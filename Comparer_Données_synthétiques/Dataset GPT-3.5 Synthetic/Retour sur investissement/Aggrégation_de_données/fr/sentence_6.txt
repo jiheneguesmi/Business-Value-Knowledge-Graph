@@ -1,0 +1,1 @@
+ Une entreprise de commerce de détail peut exploiter l'agrégation de données pour regrouper les données de ventes d'inventaire et de comportement client afin d'optimiser les niveaux de stock d'anticiper la demande et d'augmenter les marges bénéficiaires

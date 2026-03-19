@@ -1,0 +1,1 @@
+ Une chaîne de supermarchés peut mutualiser les données de vente entre ses magasins pour ajuster plus efficacement les niveaux de stock et éviter les ruptures de stock

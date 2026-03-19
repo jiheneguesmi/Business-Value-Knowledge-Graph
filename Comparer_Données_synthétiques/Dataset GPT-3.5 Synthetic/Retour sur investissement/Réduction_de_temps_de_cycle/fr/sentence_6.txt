@@ -1,0 +1,1 @@
+ En diminuant le temps nécessaire pour effectuer des tests et des contrôles de qualité nous avons pu réduire les retards de production et minimiser les coûts liés aux rebuts et aux retours ce qui a augmenté notre rentabilité

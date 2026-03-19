@@ -1,0 +1,1 @@
+ This solution can help optimize infrastructure security by implementing advanced threat detection and prevention capabilities reducing the risk of costly data breaches and downtime

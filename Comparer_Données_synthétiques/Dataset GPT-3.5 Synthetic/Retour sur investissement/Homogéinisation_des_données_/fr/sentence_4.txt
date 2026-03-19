@@ -1,0 +1,1 @@
+ La solution d'homogénéisation des données nous a permis de mieux gérer nos stocks en intégrant et en normalisant les données provenant de nos différents fournisseurs ce qui nous a aidés à éviter les pénuries et les surplus inutiles

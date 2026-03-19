@@ -1,0 +1,1 @@
+ En mettant en place des processus de nettoyage et de normalisation des données la gouvernance des données peut permettre aux entreprises de réduire les coûts liés à la maintenance des bases de données et à la correction des erreurs ce qui constitue un retour sur investissement mesurable

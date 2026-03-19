@@ -1,0 +1,1 @@
+ Implementing the proposed Gouvernance de la données solution can help eliminate redundant or outdated data thus reducing storage and maintenance costs

@@ -1,0 +1,1 @@
+ Implementing a realtime data analytics platform can help identify and address bottlenecks in production and distribution leading to improved efficiency and reduced waste ultimately boosting the bottom line

@@ -1,0 +1,1 @@
+ A hotel chain implementing a resource sharing program for laundry services can reduce operational costs and improve profitability

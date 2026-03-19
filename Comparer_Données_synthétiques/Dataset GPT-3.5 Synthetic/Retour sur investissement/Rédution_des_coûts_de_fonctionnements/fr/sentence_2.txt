@@ -1,0 +1,1 @@
+ Notre système de gestion des stocks en temps réel nous permet d'éviter les erreurs de commande et de réduire nos coûts d'inventaire de 15%

@@ -1,0 +1,1 @@
+ We have implemented advanced encryption and access control measures to protect sensitive data in line with the requirements of relevant legislation such as the GDPR and CCPA

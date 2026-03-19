@@ -1,0 +1,1 @@
+ Our solutions provide audit trails and logging capabilities to enable organizations to demonstrate compliance with data protection laws and regulatory requirements thereby reducing the risk of legal sanctions and penalties

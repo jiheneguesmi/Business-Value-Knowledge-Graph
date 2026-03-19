@@ -1,0 +1,1 @@
+ Nos produits intègrent des fonctionnalités de pseudonymisation et d'anonymisation des données permettant de respecter les principes de minimisation et de limitation de la collecte des données personnelles

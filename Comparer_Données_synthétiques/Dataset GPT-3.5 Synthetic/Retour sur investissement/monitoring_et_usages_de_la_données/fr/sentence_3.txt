@@ -1,0 +1,1 @@
+ Un hôtel peut utiliser le monitoring des données de réservation pour ajuster ses tarifs en temps réel maximisant ainsi ses revenus et améliorant son taux d'occupation

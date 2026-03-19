@@ -1,0 +1,1 @@
+ A hotel chain implemented this product to improve their room capacity management resulting in higher occupancy rates and increased revenue per available room

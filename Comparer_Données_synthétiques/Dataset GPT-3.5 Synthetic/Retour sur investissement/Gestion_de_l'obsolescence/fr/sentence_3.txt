@@ -1,0 +1,1 @@
+ Un détaillant de vêtements utilise la gestion de l'obsolescence pour gérer son inventaire et éviter les stocks excédentaires ce qui lui permet d'optimiser ses marges et d'éviter les pertes liées à l'accumulation de produits obsolètes

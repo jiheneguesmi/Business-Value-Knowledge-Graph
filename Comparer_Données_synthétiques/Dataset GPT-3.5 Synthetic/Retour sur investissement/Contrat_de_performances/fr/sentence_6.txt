@@ -1,0 +1,1 @@
+ Un fournisseur de services de cloud computing propose un contrat de performances garantissant une disponibilité de service de 9999 % ce qui permet à ses clients de minimiser les interruptions d'activité et de maintenir leur compétitivité

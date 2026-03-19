@@ -1,0 +1,1 @@
+ En utilisant la modélisation des prix une entreprise de voyage peut optimiser ses tarifs en tenant compte de facteurs tels que la demande saisonnière et les comportements d'achat des consommateurs ce qui peut augmenter sa rentabilité

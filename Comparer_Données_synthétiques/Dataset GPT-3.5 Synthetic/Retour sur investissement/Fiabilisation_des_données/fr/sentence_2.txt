@@ -1,0 +1,1 @@
+ Une compagnie d'assurance a implémenté une solution de fiabilisation des données pour garantir l'exactitude des données des clients réduisant ainsi les risques de nonconformité réglementaire et d'amendes associées

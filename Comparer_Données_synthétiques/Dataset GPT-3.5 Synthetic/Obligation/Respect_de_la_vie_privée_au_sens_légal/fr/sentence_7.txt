@@ -1,0 +1,1 @@
+ Nous avons mis en place des processus et des outils de gestion des incidents de sécurité afin de garantir notre capacité à répondre aux exigences légales en matière de signalement et de notification en cas de violation de données

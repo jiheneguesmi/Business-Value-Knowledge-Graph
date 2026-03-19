@@ -1,0 +1,1 @@
+ Notre solution de gestion des stocks en temps réel permet de réduire les coûts liés au stockage et d'optimiser les niveaux de stock en fonction de la demande générant des économies d'échelle

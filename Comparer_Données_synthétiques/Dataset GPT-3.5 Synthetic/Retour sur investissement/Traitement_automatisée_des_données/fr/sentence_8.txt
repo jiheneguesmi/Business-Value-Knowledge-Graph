@@ -1,0 +1,1 @@
+ En automatisant le traitement des données de suivi des ventes nous avons pu identifier les tendances saisonnières et les préférences des clients ce qui nous a permis d'adapter notre inventaire pour maximiser nos revenus

@@ -1,0 +1,1 @@
+ Nous avons intégré des fonctionnalités de pseudonymisation des données ce qui permet de respecter les principes de minimisation des données et de protection de la vie privée énoncés dans les lois sur la confidentialité

@@ -1,0 +1,1 @@
+ En utilisant la vitesse de calcul pour analyser nos données de performance nous pouvons identifier plus rapidement les domaines d'amélioration et mettre en œuvre des changements pour améliorer l'efficacité opérationnelle

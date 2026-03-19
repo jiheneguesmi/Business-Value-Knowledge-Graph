@@ -1,0 +1,1 @@
+ En augmentant la vitesse de nos opérations de service client nous avons pu réduire le temps d'attente des clients améliorer leur satisfaction et fidéliser davantage

@@ -1,0 +1,1 @@
+ Un centre de données a mis en place un système de surveillance des équipements critiques ce qui lui a permis de réduire les temps d'arrêt liés à des pannes matérielles et d'assurer une disponibilité maximale de ses serveurs ce qui a accru sa satisfaction client

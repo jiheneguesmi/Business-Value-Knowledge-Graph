@@ -1,0 +1,1 @@
+ Notre solution permet aux résidents de visualiser en temps réel les places de stationnement disponibles à proximité ce qui leur permet d'économiser du temps et de l'énergie en évitant de tourner en rond à la recherche d'une place

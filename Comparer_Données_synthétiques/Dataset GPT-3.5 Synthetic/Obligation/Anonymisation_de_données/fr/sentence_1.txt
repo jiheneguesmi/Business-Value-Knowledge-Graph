@@ -1,0 +1,1 @@
+ Grâce à notre technologie de pseudonymisation les données sensibles sont remplacées par des identifiants aléatoires respectant ainsi les principes de l'anonymisation des données imposés par la réglementation

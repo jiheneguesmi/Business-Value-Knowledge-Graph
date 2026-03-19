@@ -1,0 +1,1 @@
+ A smart lighting system that automatically adjusts brightness and energy usage based on occupancy and natural light levels can significantly reduce electricity costs for commercial buildings

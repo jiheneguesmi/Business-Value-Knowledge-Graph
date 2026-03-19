@@ -1,0 +1,1 @@
+ This solution offers the ability to optimize infrastructure by implementing softwaredefined networking allowing for easier management and scalability resulting in cost savings on network equipment and administration
