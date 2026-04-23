@@ -18,7 +18,7 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 # ============================================================
 # CREDENTIALS - à renseigner
 # ============================================================
-LLAMA_API_KEY = "llx-KIrzVWwAaWEMOFw9Q4GobU3SjChMEy2CXjrEBZFpXcVjusT8"
+LLAMA_API_KEY = ""
 # ============================================================
 
 # ── Paramètres LlamaParse ────────────────────────────────────
