@@ -12,7 +12,7 @@ import gc
 from pathlib import Path
 
 # Configuration des chemins
-PDF_DIR = r"C:\Users\Jihene\Downloads\Business-Value-Knowledge-Graph\main\Extraction_et_Embedding\extract_per_client\Docs"
+PDF_DIR = r"C:\Users\Jihene\Downloads\Business-Value-Knowledge-Graph\main\Extraction_et_Embedding\extraction\docs_test"
 
 # Limite Windows MAX_PATH
 WIN_MAX_PATH = 260
