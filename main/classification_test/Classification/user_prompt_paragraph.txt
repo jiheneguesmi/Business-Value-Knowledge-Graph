@@ -1,0 +1,9 @@
+Paragraphe de contexte :
+"""{full_paragraph}"""
+
+Phrase à analyser : "{phrase}"
+
+Question : {question_text}
+
+Réponds UNIQUEMENT avec ce JSON valide (sans markdown) :
+{{"reponse": "oui"}} ou {{"reponse": "non"}}

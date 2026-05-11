@@ -1,0 +1,19 @@
+
+[ROI] La phrase évoque-t-elle un gain financier, une réduction de coût, ou une rentabilité mesurable ?
+
+[ROI] Met-elle en avant une amélioration fonctionnelle claire (temps, charge, automatisation…), formulée comme un avantage opérationnel ?
+
+[ROI] L’effet est-il formulé comme un impact sur les résultats, les ressources ou la performance d’une organisation ?
+
+[NOT] La phrase valorise-t-elle une amélioration du bien-être, du confort, de la qualité de vie ou du cadre de travail d’un usager (interne ou externe) ?
+
+[NOT] Met-elle en avant un label, une reconnaissance, une attractivité, ou une image positive d’un service, d’un lieu ou de l’organisation ?
+
+[NOT] Suggère-t-elle un impact visible, tangible, ou perçu positivement dans l’environnement, les usages ou l’expérience utilisateur ?
+
+[OBL] La phrase évoque-t-elle une nécessité de respecter une norme, une loi ou une exigence réglementaire ?
+
+[OBL] Fait-elle référence à une mesure de sécurité ou de prévention des risques (physiques, numériques, juridiques…) ?
+
+[OBL] Présente-t-elle une action formulée comme nécessaire pour éviter un danger, une sanction, ou pour garantir une protection minimale ?
+
