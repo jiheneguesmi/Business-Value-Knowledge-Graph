@@ -1,1 +1,0 @@
- Un fournisseur de services cloud peut partager des données sur les menaces de sécurité avec d'autres fournisseurs pour renforcer la protection contre les cyberattaques

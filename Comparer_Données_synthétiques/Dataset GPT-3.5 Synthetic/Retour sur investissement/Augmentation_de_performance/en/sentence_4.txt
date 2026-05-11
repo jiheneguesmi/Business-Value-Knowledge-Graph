@@ -1,1 +1,0 @@
- An inventory management solution that reduces stock holding costs and minimizes wastage through accurate demand forecasting and realtime tracking of inventory levels

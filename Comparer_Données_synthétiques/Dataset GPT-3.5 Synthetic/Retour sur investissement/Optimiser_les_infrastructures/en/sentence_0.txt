@@ -1,1 +1,0 @@
- By implementing this solution a company can optimize its infrastructure by consolidating and virtualizing servers leading to significant cost savings on hardware and energy consumption
