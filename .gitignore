@@ -20,6 +20,10 @@ models/
 *.h5
 *.pt
 *.bin
+*.npy
+*.json
+*.md
+*.xlsx
 
 # Système
 .DS_Store
